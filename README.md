@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Bruno Genie
+## Student at 19 (42 Network)
 <!--
 **dj1n19/dj1n19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
